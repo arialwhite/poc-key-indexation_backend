@@ -1,7 +1,9 @@
-# Warning : this a learning project
+# Backend - POC key indexation
 
-## setup
+Git submodule of the project https://github.com/arialwhite/poc-key-indexation
 
-```shell
-sudo docker run --name mongo-dev -p 27017:27017 -d mongo:latest
+## Installation
+
+```
+mvn install
 ```
